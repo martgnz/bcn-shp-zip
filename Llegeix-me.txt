@@ -1,0 +1,3 @@
+Els arxius adjunts que integren el ZIP descarregat corresponen als productes seleccionats, així com els documents INFO_*.PDF amb la informació referent a aquests (metadades, estructura de la informació i condicions d'ús)
+ 
+Gràcies per utilitzar aquest servei.
