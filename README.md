@@ -7,4 +7,4 @@ Metadata and a zip containg the districts, neighborhoods, areas of interests, AE
 ## Attribution
 © Ajuntament de Barcelona.
 
-Last update: 28/11/2018.
+Last update: 11/03/2020.
